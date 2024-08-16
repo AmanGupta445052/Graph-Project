@@ -11,5 +11,5 @@ app.get("/", (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log("The server is up and running in 3000!");
+  console.log("The server is up and running in: 3001");
 }); 
